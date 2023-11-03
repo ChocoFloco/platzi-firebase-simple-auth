@@ -2,12 +2,13 @@
 // This is not "real security", API Keys are
 // able to authenticate users, anything else :D
 const firebaseConfig = {
-  apiKey: "AIzaSyA4zatcgkphW7EE3S6K2JN8CtjM1vAwQIk",
-  authDomain: "platzi-firebase-simple-auth.firebaseapp.com",
-  databaseURL: "https://platzi-firebase-simple-auth.firebaseio.com",
-  projectId: "platzi-firebase-simple-auth",
-  storageBucket: "platzi-firebase-simple-auth.appspot.com",
-  messagingSenderId: "278321703475",
+  apiKey: "AIzaSyC7mybMry1LzLSlpsmXMlN_9LbcPogoW2g",
+  authDomain: "inverseprivate-304e0.firebaseapp.com",
+  projectId: "inverseprivate-304e0",
+  storageBucket: "inverseprivate-304e0.appspot.com",
+  messagingSenderId: "246587992179",
+  appId: "1:246587992179:web:aa224363a30a5e532ca206",
+  measurementId: "G-VWNPDLNQJ0"
 };
 
 firebase.initializeApp(firebaseConfig);
